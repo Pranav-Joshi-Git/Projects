@@ -1,0 +1,22 @@
+
+
+Form Dictionary => {'rate_Database Fundamentals': '7', 'rate_Computer Architecture': '1', 'rate_Distributed Computing Systems': '2', 'rate_Cyber Security': '3', 'rate_Networking': '4', 'rate_Development': '7', 'rate_Programming Skills': '7', 'rate_Project Management': '7', 'rate_Computer Forensics Fundamentals': '7', 'rate_Technical Communication': '6', 'rate_AI ML': '7', 'rate_se': '7', 'rate_Business Analysis': '7', 'rate_Communication skills': '3', 'rate_Data Science': '2', 'rate_Troubleshooting skills': '1', 'rate': '1'}
+
+
+Numpy Array => ['7' '1' '2' '3' '4' '7' '7' '7' '7' '6' '7' '7' '7' '3' '2' '1' '1']
+
+
+Array transpose => [['7' '1' '2' '3' '4' '7' '7' '7' '7' '6' '7' '7' '7' '3' '2' '1' '1']]
+
+
+Main prediictions => ['API Integration Specialist']
+
+
+Prediction probabilty => [[0.  0.2 0.  0.2 0.  0.  0.  0.2 0.  0.  0.  0.  0.  0.2 0.2 0.  0. ]]
+
+
+Boolean prediction => [[False  True False  True False False False  True False False False False
+  False  True  True False False]]
+
+
+Final result => {0: 1, 1: 3, 2: 7, 3: 13, 4: 14}
